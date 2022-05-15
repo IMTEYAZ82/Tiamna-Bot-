@@ -69,11 +69,11 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "@ImteyazxAssistantBot"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
-         "value": "Tiana_Prince_Bot"
+         "value": "@TiamnaRobot"
       },
       "ASS_USERNAME": {
          "description": "Your Musicbot Assistant username without the @",
@@ -86,12 +86,12 @@
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
          "required": true,
-         "value": "TiamnaxUpdates"
+         "value": "@TiamnaxUpdates"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TiamnaxSupport"
+         "value": "tiamnaxSupport"
       },
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
