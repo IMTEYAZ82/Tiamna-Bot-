@@ -1,5 +1,5 @@
 {
-      "name": "Tiana Bot",
+      "name": "Tiamna Bot",
       "logo": "https://te.legra.ph/file/5f575d5b4a1d019ae2864.png",
       "description": "A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon",
       "keywords": [
@@ -11,7 +11,7 @@
          "tianabot",
          "telegram"
       ],   
-   "repository": "https://github.com/Prince-Botz/TianaBot",
+   "repository": "https://github.com/IMTEYAZ82/Tianabot",
    "addons": [
       {
          "options": {
@@ -77,7 +77,7 @@
       },
       "ASS_USERNAME": {
          "description": "Your Musicbot Assistant username without the @",
-         "value": "TianaxAssistant"
+         "value": "TiamnaxAssistant"
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
@@ -86,12 +86,12 @@
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
          "required": true,
-         "value": "TianaxUpdates"
+         "value": "TiamnaxUpdates"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TianaxSupport"
+         "value": "TiamnaxSupport"
       },
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
