@@ -25,7 +25,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
+Can be found on Telegram as [@TiamnaRobot](https://t.me/TIANA_PRINCE_BOT)
 
 ## Deployment
 First Step!
