@@ -92,6 +92,6 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Tiana Bot:
+Special thanks to these amazing projects/people which/who help power Tiamna Bot:
 
-- [Prince](https://t.me/NoobxCoder)
+- [Imteyaz](https://t.me/ImteyazxAssistantBot)
