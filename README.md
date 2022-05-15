@@ -11,7 +11,7 @@
 </p>
     
 # Tiamna Bot
-#### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+#### Tiamna is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
 
 #### Tiamna's features over other bots:
@@ -82,9 +82,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
+- [Telegram Channel](https://t.me/TiamnaxUpdates)
+- [Telegram Support Group](https://t.me/TiamnaxSupport)
+- [Contact Owner](https://t.me/ImteyazxAssistantBot)
 
 ## License
 
